@@ -1,0 +1,1 @@
+Los test del ejercicio fueron validados con exito de acuerdo a los requerimientos planeados. 
